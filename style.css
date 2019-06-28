@@ -1,0 +1,67 @@
+.atm-heading {
+    background: #6a5e98;
+    color: #fff;
+    border-radius: unset;
+}
+
+.welcome-msg {
+    background-color: #fff;
+}
+
+.welcome-msg h3 {
+    font-weight: bold;
+    align-self: center;
+    color: #000;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.enter-amount {
+    align-self: center;
+    font-size: 12px;
+}
+
+.container-bg {
+    background-color: #cecece;
+    padding: 27px !important;
+    height: 378px;
+}
+
+.cross {
+    padding: 14px !important;
+    width: 316px;
+    height: auto;
+    margin-right: 49px;
+}
+
+.amount {
+    color: #000;
+}
+
+td {
+    margin-left: 14px;
+    color: #000;
+}
+
+.form-element-edges {
+    border-radius: 0px !important;
+}
+
+.bold-w {
+    font-weight: bold;
+}
+
+input:required {
+    top: -5px;
+    left: 105%;
+}
+
+.error-message {
+    color: red;
+    font-size: 12px;
+    margin-bottom: 19px;
+}
+
+.form-custom-prop {
+    margin-bottom: 0px !important;
+}
